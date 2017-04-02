@@ -1,0 +1,5 @@
+Hola,Hello,Salut,Hallo
+Clase,Class,Classe,Klasse
+Reloj,Clock,Uhr,Regarder
+Gato,Cat,Chat,Katze
+Tarea,Homework,Devoir,Aufgabe
